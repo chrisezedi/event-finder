@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "city": "Austin",
+    "artist": "Justin Bieber",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "city": "Beverly Hills",
+    "artist": "Jennifer Lopez",
+    "price": 600
+  },
+  {
+    "id": 3,
+    "city": "Cordova",
+    "artist": "Ed Sheeran",
+    "price": 800
+  },
+  {
+    "id": 4,
+    "city": "Kingman",
+    "artist": "Serena Gomex",
+    "price": 250
+  },
+  {
+    "id": 5,
+    "city": "Benton",
+    "artist": "Eminem",
+    "price": 120
+  },
+  {
+    "id": 6,
+    "city": "Belmort",
+    "artist": "Rihanna",
+    "price": 800
+  },
+  {
+    "id": 7,
+    "city": "Auburn",
+    "artist": "Kanye West",
+    "price": 700
+  },
+  {
+    "id": 8,
+    "city": "Kingston",
+    "artist": "Nikki Minag",
+    "price": 500
+  },
+  {
+    "id": 9,
+    "city": "Corning",
+    "artist": "DJ Khalid",
+    "price": 185
+  },
+  {
+    "id": 10,
+    "city": "Brooklyn",
+    "artist": "Taylor Swift",
+    "price": 900
+  }
+]
